@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy LaPockett👋</h1>
 </div>
-<img src="https://raw.githubusercontent.com/LaPockett/assets/refs/heads/main/banner.png?token=GHSAT0AAAAAAC5EG4LSCDTDL5ZGI4CSYRNUZ4BGYGA">
+<img src="https://raw.githubusercontent.com/LaPockett/assets/refs/heads/main/banner.png?token=GHSAT0AAAAAAC5EG4LTERHCQ664AWZYLYUIZ4BIR7Q">
 
 
 ## 🌟 Sobre mí 🌟  
