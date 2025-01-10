@@ -7,5 +7,5 @@
 
 - ⭐ Github Star ⭐ 
 - 📲 Desarrolladora de software
-- 🎥 Me encantaría crear contenido en un futruo
+- 🎥 Me encantaría crear contenido en un futuro
 <br>
