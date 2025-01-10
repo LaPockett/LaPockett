@@ -12,5 +12,14 @@
 📚 **Especializada en Desarrollo de Aplicaciones Multiplataforma**.  
 🏡 **Viviendo en España**, lista para nuevas aventuras profesionales y personales.  
 
+## 🌟 Lenguajes y herramientas 🌟  
+
+☕ **Java** 
+💻 **Kotlin**  
+🐍 **Python**
+📚 **React**
+👾 **Android Studio**
+🗂️ **SQL**
+
 🚀 ¡Siempre aprendiendo y lista para nuevos desafíos!
 <br>
