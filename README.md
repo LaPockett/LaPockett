@@ -5,7 +5,9 @@
 
 ## Sobre mi
 
-- ⭐ Github Star ⭐ 
+- ⭐ Actualmente ando en busca de prácticas para introducirme al mundo laboral ⭐ 
 - 📲 Desarrolladora de software
 - 🎥 Me encantaría crear contenido en un futuro
+- 🎓 Desarrollo de aplicaciones multiplataforma
+- 🏡 Vivo en España
 <br>
