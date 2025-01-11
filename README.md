@@ -10,12 +10,15 @@
 
 
 ## 🌟 Sobre mí 🌟  
+| ¡Hola! Soy Agnes Diana Carbajal Andia, tengo 21 años y actualmente estoy en mi segundo año de formación en Desarrollo de Aplicaciones Multiplataforma (DAM). Estoy emocionada porque pronto tendré la oportunidad de poner en práctica mis conocimientos al ingresar a una empresa para realizar mis prácticas profesionales.
 
-✨ **Actualmente en busca de prácticas** para introducirme al mundo laboral y crecer profesionalmente.  
-💻 **Desarrolladora de Software** apasionada por la tecnología y la creación de soluciones innovadoras.  
-🎥 **Futura creadora de contenido**, con ganas de compartir mi aprendizaje y experiencias.  
-📚 **Especializada en Desarrollo de Aplicaciones Multiplataforma**.  
-🏡 **Viviendo en España**, lista para nuevas aventuras profesionales y personales.  
+| Soy una apasionada por la tecnología y el desarrollo de software; disfruto mucho de lo que hago y estoy comprometida con aprender continuamente para crecer tanto personal como profesionalmente. Mi objetivo es adquirir habilidades y experiencias que me permitan afrontar retos, aportar valor a los proyectos en los que participe y construir una sólida carrera en el mundo del desarrollo de aplicaciones.
+
+| Este GitHub es un espacio donde espero plasmar mi aprendizaje y creatividad a través de proyectos que reflejen mi evolución como desarrolladora. ¡Estoy ansiosa por llenarlo de ideas, soluciones y mucho código! 😊
+
+| Si compartes la misma pasión por el desarrollo o simplemente quieres conocer más de mi trabajo, no dudes en explorar mis proyectos. ¡Hablemos y creemos algo increíble juntos! 🚀
+
+
 
 ## 🌟 Lenguajes y herramientas 🌟  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -31,14 +34,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-
-
-☕ **Java** 
-💻 **Kotlin**  
-🐍 **Python**
-📚 **React**
-👾 **Android Studio**
-🗂️ **SQL**
+## 🌟 Idiomas 🌟  
+- Chino
+- Inglés
 
 🚀 ¡Siempre aprendiendo y lista para nuevos desafíos!
 
