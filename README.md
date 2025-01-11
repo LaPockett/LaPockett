@@ -1,7 +1,8 @@
-<div align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWRyNWEzb2YwNjB6cnFpNjFlNDliZ3FqNzh3dDJ2aHFuNmdlYjFpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1NYkJ0wTvncdXV5dN5/giphy.webp" width="200">
-<h1 align="center">Hola, soy LaPockett👋</h1>
-</div>
+
+
+# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWRyNWEzb2YwNjB6cnFpNjFlNDliZ3FqNzh3dDJ2aHFuNmdlYjFpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1NYkJ0wTvncdXV5dN5/giphy.webp" width="150"/>Bienvenid@ al GitHub de LaPockett
+
+![Banner LaPockett](github-header-image.png)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agnesdianacarbajal/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/lapockett/)
