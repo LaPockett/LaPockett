@@ -1,6 +1,6 @@
 
 
-# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWRyNWEzb2YwNjB6cnFpNjFlNDliZ3FqNzh3dDJ2aHFuNmdlYjFpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1NYkJ0wTvncdXV5dN5/giphy.webp" width="150"/>Bienvenid@ al GitHub de LaPockett
+# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWRyNWEzb2YwNjB6cnFpNjFlNDliZ3FqNzh3dDJ2aHFuNmdlYjFpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1NYkJ0wTvncdXV5dN5/giphy.webp" width="150"/>Bienvenid@ al GitHub de Dian
 
 ![Banner LaPockett](github-header-image.png)
 
