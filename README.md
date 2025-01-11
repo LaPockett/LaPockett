@@ -11,7 +11,7 @@
 
 
 ## 🌟 Sobre mí 🌟  
-| ¡Hola! Soy Agnes Diana Carbajal Andia, tengo 21 años y actualmente estoy en mi segundo año de formación en Desarrollo de Aplicaciones Multiplataforma (DAM). Estoy emocionada porque pronto tendré la oportunidad de poner en práctica mis conocimientos al ingresar a una empresa para realizar mis prácticas profesionales.
+| ¡Hola! No soy un bot. Actualmente estoy en mi segundo año de formación en Desarrollo de Aplicaciones Multiplataforma (DAM). Estoy emocionada porque pronto tendré la oportunidad de poner en práctica mis conocimientos al ingresar a una empresa para realizar mis prácticas profesionales.
 
 | Soy una apasionada por la tecnología y el desarrollo de software; disfruto mucho de lo que hago y estoy comprometida con aprender continuamente para crecer tanto personal como profesionalmente. Mi objetivo es adquirir habilidades y experiencias que me permitan afrontar retos, aportar valor a los proyectos en los que participe y construir una sólida carrera en el mundo del desarrollo de aplicaciones.
 
