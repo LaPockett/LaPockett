@@ -44,5 +44,9 @@ Gif cerdo tecleando: https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWRyNWEzb
 - Chino
 - Inglés
 
-🚀 ¡Siempre aprendiendo y lista para nuevos desafíos!
+## 🐍 Una serpiente salvaje
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
