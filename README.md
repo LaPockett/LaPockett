@@ -1,6 +1,7 @@
 
 
-# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWRyNWEzb2YwNjB6cnFpNjFlNDliZ3FqNzh3dDJ2aHFuNmdlYjFpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1NYkJ0wTvncdXV5dN5/giphy.webp" width="150"/>Bienvenid@ al GitHub de Dian
+# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWRyNWEzb2YwNjB6cnFpNjFlNDliZ3FqNzh3dDJ2aHFuNmdlYjFpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1NYkJ0wTvncdXV5dN5/giphy.webp" width="150"/>
+<h1 align="center">Bienvenid@ al GitHub de Dian<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ![Banner LaPockett](header.png)
 
@@ -10,7 +11,7 @@
 
 
 
-## 🌟 Sobre mí 🌟  
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mí*** &nbsp;<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
 | ¡Hola! No soy un bot. Actualmente estoy en mi segundo año de formación en Desarrollo de Aplicaciones Multiplataforma (DAM). Estoy emocionada porque pronto tendré la oportunidad de poner en práctica mis conocimientos al ingresar a una empresa para realizar mis prácticas profesionales.
 
 | Soy una apasionada por la tecnología y el desarrollo de software; disfruto mucho de lo que hago y estoy comprometida con aprender continuamente para crecer tanto personal como profesionalmente. Mi objetivo es adquirir habilidades y experiencias que me permitan afrontar retos, aportar valor a los proyectos en los que participe y construir una sólida carrera en el mundo del desarrollo de aplicaciones.
@@ -21,7 +22,7 @@
 
 
 
-## 🌟 Lenguajes y herramientas 🌟  
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Lenguajes y herramientas*** &nbsp;<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -33,11 +34,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-## 🌟 Aprendiendo 🌟 
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Aprendiendo*** &nbsp;<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-## 🌟 Idiomas 🌟  
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Idiomas*** &nbsp;<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
 - Chino
 - Inglés
 
