@@ -14,9 +14,8 @@ Gif cerdo tecleando: https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWRyNWEzb
 
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mí*** &nbsp;<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 | ¡Hola! No soy un bot. Actualmente estoy en mi segundo año de formación en Desarrollo de Aplicaciones Multiplataforma (DAM). Estoy emocionada porque pronto tendré la oportunidad de poner en práctica mis conocimientos al ingresar a una empresa para realizar mis prácticas profesionales.
-
-| Soy una apasionada por la tecnología y el desarrollo de software; disfruto mucho de lo que hago y estoy comprometida con aprender continuamente para crecer tanto personal como profesionalmente. Mi objetivo es adquirir habilidades y experiencias que me permitan afrontar retos, aportar valor a los proyectos en los que participe y construir una sólida carrera en el mundo del desarrollo de aplicaciones.
 
 | Este GitHub es un espacio donde espero plasmar mi aprendizaje y creatividad a través de proyectos que reflejen mi evolución como desarrolladora. ¡Estoy ansiosa por llenarlo de ideas, soluciones y mucho código! 😊
 
