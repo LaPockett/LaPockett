@@ -1,7 +1,9 @@
 
-
-# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWRyNWEzb2YwNjB6cnFpNjFlNDliZ3FqNzh3dDJ2aHFuNmdlYjFpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1NYkJ0wTvncdXV5dN5/giphy.webp" width="150"/>
-<h1 align="center">Bienvenid@ al GitHub de Dian<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--
+Gif cerdo tecleando: https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWRyNWEzb2YwNjB6cnFpNjFlNDliZ3FqNzh3dDJ2aHFuNmdlYjFpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1NYkJ0wTvncdXV5dN5/giphy.webp
+-->
+# 
+<h1 align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3E4N3RzcjRxc3VvOWlzeG5qOHlqNHlqMXBkeGIwcjB4YnZmdzZiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fxTDiduVAhCgnNLaG2/giphy.gif" width="80"/>Bienvenid@ al GitHub de Dian<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3E4N3RzcjRxc3VvOWlzeG5qOHlqNHlqMXBkeGIwcjB4YnZmdzZiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fxTDiduVAhCgnNLaG2/giphy.gif" width="80"></h1>
 
 ![Banner LaPockett](header.png)
 
